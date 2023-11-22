@@ -6,6 +6,8 @@ Contents have been downloaded from youtube's auto-generated transcripts
 
 You can use them to create your own custom GPT
 
+I'll try my best to add new episodes regularly
+
 The following videos from the channel are excluded:
 
 ```
